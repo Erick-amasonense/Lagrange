@@ -1,6 +1,4 @@
-paginate: 5
-markdown: kramdown
-highlighter: rouge
+remote_theme: pages-themes/lagrange@main
 
 plugins:
   - jekyll-paginate
@@ -9,9 +7,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: pages-themes/lagrange@v0.2.0
-
 title: "Daft Punk Blog"
 description: "Daft Punk, lo mejor de la música house"
 author: "Erick Daniel"
 url: "https://erick-amasonense.github.io/Lagrange"
+
+paginate: 5
+markdown: kramdown
+highlighter: rouge
