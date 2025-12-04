@@ -1,30 +1,17 @@
-# Site Build Settings
+paginate: 5
+markdown: kramdown
+highlighter: rouge
 
-# Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 
-# jekyll-paginate configuration
-paginate:            5
-
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 remote_theme: pages-themes/lagrange@v0.2.0
-title:		           "Daft punk blog"
-url: "https://erick-amasonense.github.io/Lagrange"
-description:	       'Daft punk, lo mejor de la música house'
-author:              'Erick Daniel'
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+title: "Daft Punk Blog"
+description: "Daft Punk, lo mejor de la música house"
+author: "Erick Daniel"
+url: "https://erick-amasonense.github.io/Lagrange"
