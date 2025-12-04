@@ -52,11 +52,6 @@ Daft Punk fue un dúo francés de música electrónica formado por Thomas Bangal
 ---
 
 ## Posts recomendados
-
-Crea estos archivos en `_posts/`:
-
-- `2025-12-4-discovery-analisis.md`  
-- `2025-12-4-ram-detras-de-la-platina.md`  
-
+- [Análisis de Discovery (2001)](https://erick-amasonense.github.io/Lagrange/2025/12/04/discovery-analisis.html)
 ---
 
