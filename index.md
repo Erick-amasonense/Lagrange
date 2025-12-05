@@ -60,7 +60,5 @@ Queries saber más?
 
 ### Otras páginas
 
-### Curiosidades más secretas | daftpunk
-
 - [Curiosidades Secertas ]({{ '/curiosidades/' | relative_url }})
 
