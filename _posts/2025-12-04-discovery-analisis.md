@@ -4,6 +4,7 @@ layout: post
 date: 2025-12-04
 categories: daftpunk music
 permalink: /2025/12/04/discovery-analisis.html
+---
 --------------------------
 
 # Análisis de *Discovery* (2001)
