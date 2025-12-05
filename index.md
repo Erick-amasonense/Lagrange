@@ -55,7 +55,6 @@ Queries saber más?
 
 ## Posts recomendados
 - [Análisis de Discovery (2001)](https://erick-amasonense.github.io/Lagrange/2025/12/04/discovery-analisis.html)
-- 
 ---
 
 ## Otras páginas
