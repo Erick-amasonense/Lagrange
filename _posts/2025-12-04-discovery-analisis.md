@@ -64,6 +64,3 @@ El álbum está íntimamente ligado con la película animada *Interstella 5555*,
 *Discovery* es más que un álbum: es una experiencia sonora y visual que marcó un antes y un después en la música electrónica. Su legado continúa vigente y sigue siendo una referencia obligada para cualquier amante del género.
 
 ---
-
-¿Quieres saber mas?
-[Curiosidades]({{ '/curiosidades/' | relative_url }})
