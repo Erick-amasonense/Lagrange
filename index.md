@@ -57,7 +57,9 @@ Queries saber más?
 - [Análisis de Discovery (2001)](https://erick-amasonense.github.io/Lagrange/2025/12/04/discovery-analisis.html)
 ---
 
-## Otras páginas
+### Otras páginas
+
+---
 
 ### Curiosidades más secretas | daftpunk
 
