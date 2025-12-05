@@ -65,4 +65,5 @@ El álbum está íntimamente ligado con la película animada *Interstella 5555*,
 
 ---
 
-¿Quieres que cree otro post, por ejemplo sobre *Random Access Memories*?
+¿Quieres saber mas?
+[Curiosidades]({{ '/curiosidades/' | relative_url }})
